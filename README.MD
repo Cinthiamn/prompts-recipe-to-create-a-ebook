@@ -1,4 +1,5 @@
 <p align="center">
+
 <img 
     src="./assets/Capa Meditaê ebook.PNG"
 
