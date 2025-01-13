@@ -17,31 +17,25 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+Desafio de Projeto: E-book gerado por IA - Meditaê: A Arte de Parar no Caos
 
+Projeto para entrega do Desafio de Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+#Tecnologias utilizadas no projeto
+- ChatGPT: para criar o título, conteúdo os prompts de imagem
+- ChatGPT, Leonardo IA e Copilot: para gerar as imagens 
+- Power Point:  para editar o ebook
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-
-## 🧠 Prompts
+## Prompts
 
 
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título criativo e chamativo que capture o espírito leve e descontraído do conteúdo para um ebook sobre meditação para pessoas que são céticas quanto aos seus benefícios. O título deve ser leve com um tom leve e divertido, incluindo no início algo como “Meditaê”                                                        |
+| conteúdo | FCrie o conteúdo para um ebook sobre meditação destinado a iniciantes que são céticos quanto aos seus benefícios. O ebook deve ser escrito em um tom divertido, utilizando comparações rápidas com situações do dia a dia como lidar com o Wi-Fi travado, ou momento que o elevador não chega para desmistificar a prática.
+Estruture o ebook contendo introdução, capítulo organizados e em cada capítulo inclua textos engraçados com situações do dia a dia, e no final de cada capítulo dê sugestões de scripts de imagens para ilustrar cada capítulo|
 
 
 Midjourney：
