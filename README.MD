@@ -3,7 +3,7 @@
     src="./assets/Capa Meditaê ebook.PNG"
 
 [Desafio De Projeto - ebook - Meditaê.pdf](https://github.com/Cinthiamn/prompts-for-podcast-generate-by-ia/blob/ba3f8793e0175f9ae95c866c1f3f656173c50b8d/output/DESAFIO%20PROJETO%20-%20PODCAST.mp4)
-/>
+
 </p>
 
 Desafio de Projeto: E-book gerado por IA - Meditaê: A Arte de Parar no Caos
