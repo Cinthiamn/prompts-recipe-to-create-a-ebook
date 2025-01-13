@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/Capa Meditaê ebook.PNG"
-output/Desafio De Projeto - ebook - Meditaê.pdf
+https://github.com/Cinthiamn/prompts-recipe-to-create-a-ebook/blob/main/output/Desafio%20De%20Projeto%20-%20ebook%20-%20Medita%C3%AA.pdf
     width="400"  
 />
 </p>
