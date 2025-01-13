@@ -2,7 +2,9 @@
 <img 
     src="./assets/Capa Meditaê ebook.PNG"
 
-[Desafio De Projeto - ebook - Meditaê.pdf](https://github.com/Cinthiamn/prompts-for-podcast-generate-by-ia/blob/ba3f8793e0175f9ae95c866c1f3f656173c50b8d/output/DESAFIO%20PROJETO%20-%20PODCAST.mp4)
+[Desafio De Projeto - ebook - Meditaê.pdf]
+
+(https://github.com/Cinthiamn/prompts-recipe-to-create-a-ebook/blob/main/output/Desafio%20De%20Projeto%20-%20ebook%20-%20Medita%C3%AA.pdf)
 
 </p>
 
