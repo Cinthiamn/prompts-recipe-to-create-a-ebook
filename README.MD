@@ -35,8 +35,6 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título criativo e chamativo que capture o espírito leve e descontraído do conteúdo para um ebook sobre meditação para pessoas que são céticas quanto aos seus benefícios. O título deve ser leve com um tom leve e divertido, incluindo no início algo como “Meditaê”                                                        |
 | conteúdo | FCrie o conteúdo para um ebook sobre meditação destinado a iniciantes que são céticos quanto aos seus benefícios. O ebook deve ser escrito em um tom divertido, utilizando comparações rápidas com situações do dia a dia como lidar com o Wi-Fi travado, ou momento que o elevador não chega para desmistificar a prática.
-Estruture o ebook contendo introdução, capítulo organizados e em cada capítulo inclua textos engraçados com situações do dia a dia, e no final de cada capítulo dê sugestões de scripts de imagens para ilustrar cada capítulo|
-
 
 Copilot e Leonardo IA：
 
