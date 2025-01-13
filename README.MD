@@ -1,6 +1,7 @@
 <p align="center">
 <img 
     src="./assets/Capa Meditaê ebook.PNG"
+output/Desafio De Projeto - ebook - Meditaê.pdf
     width="400"  
 />
 </p>
